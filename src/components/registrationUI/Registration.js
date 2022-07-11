@@ -16,7 +16,7 @@ const Registration = () => {
           </div>
         </Link>
         <div className="form__link">
-          <Link to="/login">
+          <Link to="/login" >
             <BsArrowLeftShort size={28} />
             Go Back
           </Link>
